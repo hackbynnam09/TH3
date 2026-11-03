@@ -1,0 +1,10 @@
+**/bin/
+**/obj/
+**/node_modules/
+**/dist/
+**/.env
+**/*.db
+**/*.db-shm
+**/*.db-wal
+.vscode/
+.DS_Store
